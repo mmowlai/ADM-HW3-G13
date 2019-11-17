@@ -3,6 +3,7 @@ Homework 3 - What movie to watch tonight?
 <p align="left">
 <img src="https://d3c1jucybpy4ua.cloudfront.net/data/63462/big_picture/popcorn.jpg?1567006493" height=430 
 </p>
+ 
  The repository consists of:
 * `collector.py`: a python file that contains the line of code needed to collect our data from the `html` page and Wikipedia.
 * `collector_utils.py`: a python file that stores the function we used in `collector.py`.
